@@ -1,2 +1,3 @@
 # Rutgers Young Scholars Program in Discrete Mathematics 
-## Number Theory Session ## 2025
+## Number Theory Session
+## 2025
